@@ -10,4 +10,5 @@
 - 29.11.25 Satuday!
 - 30.11.25 Sunday!
 - 1.12.25 Monday
+- 2.12.25 Tuesday!
 
