@@ -8,3 +8,4 @@
 - 27.11.25 Thursday!
 - 28.11.25 Friday!
 - 29.11.25 Satuday!
+- 30.11.25 Sunday!
