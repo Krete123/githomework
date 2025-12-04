@@ -6,3 +6,4 @@
 - 25.11.25 Tuesday!
 - 26.11.25 Wednesday!
 - 27.11.25 Thursday!
+- 28.11.25 Friday!
