@@ -13,4 +13,5 @@
 - 2.12.25 Tuesday!
 - 3.12.25 Wednesday!
 - 4.12.25 Thursday!
+- 5.12.25 FRIDAY AGAIN!
 
